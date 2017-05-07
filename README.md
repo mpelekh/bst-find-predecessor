@@ -10,7 +10,7 @@ Example:
 Time complexity in big O notation for `findPredecessor()`:
 average - `O(log n)`, worst case - `O(n)`.
 
-## Example Usage
+## Example Start
 
 ```bash
 git clone https://github.com/nickpeleh/bst-find-predecessor.git
