@@ -1,0 +1,22 @@
+{
+  "name": "bst-find-predeccessor",
+  "version": "1.0.0",
+  "description": "Simple implementation binary-search tree with findPredecessor() method",
+  "main": "lib/binary-search-tree.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpeleh/bst-find-predeccessor.git"
+  },
+  "author": "Nick Peleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickpeleh/bst-find-predeccessor/issues"
+  },
+  "homepage": "https://github.com/nickpeleh/bst-find-predeccessor#readme"
+}
